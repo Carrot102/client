@@ -1,0 +1,11 @@
+<html>
+<body>
+
+<h2>Demonstrating the Box Model</h2>
+
+<p>The CSSntt.</p>
+
+<div class="column">This te</div><div class="column">This te</div>
+
+</body>
+</html>
